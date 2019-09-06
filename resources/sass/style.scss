@@ -1,0 +1,80 @@
+//.jumbotron {
+//    padding-top: 3rem;
+//    padding-bottom: 3rem;
+//    margin-bottom: 0;
+//    background-color: #fff;
+//}
+//@media (min-width: 768px) {
+//    .jumbotron {
+//        padding-top: 6rem;
+//        padding-bottom: 6rem;
+//    }
+//}
+//
+//.jumbotron p:last-child {
+//    margin-bottom: 0;
+//}
+//
+//.jumbotron-heading {
+//    font-weight: 300;
+//}
+//.bd-placeholder-img {
+//    font-size: 1.125rem;
+//    text-anchor: middle;
+//    -webkit-user-select: none;
+//    -moz-user-select: none;
+//    -ms-user-select: none;
+//    user-select: none;
+//}
+//
+//@media (min-width: 768px) {
+//    .bd-placeholder-img-lg {
+//        font-size: 3.5rem;
+//    }
+//}
+//
+//.jumbotron .container {
+//    max-width: 40rem;
+//}
+body{
+    position: relative;
+}
+.text-muted{
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: blue;
+}
+footer {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+
+footer p {
+    margin-bottom: .25rem;
+}
+.parent a{
+    text-decoration: none;
+}
+.child-rows a{
+    color: white;
+    text-decoration: none;
+}
+.child-rows{
+    padding-left: 10px;
+}
+.child-rows a:hover{
+    color: greenyellow;
+}
+.col-sm-4 ul li a{
+    text-decoration: none;
+}
+.col-sm-4 ul li a:hover{
+    color: white;
+}
+.hidden{
+    display: none;
+}
+
+

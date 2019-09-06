@@ -1,0 +1,39 @@
+
+footer {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+
+footer p {
+  margin-bottom: 0.25rem;
+}
+
+.parent a {
+  text-decoration: none;
+}
+
+.child-rows a {
+  color: white;
+  text-decoration: none;
+}
+
+.child-rows {
+  padding-left: 10px;
+}
+
+.child-rows a:hover {
+  color: greenyellow;
+}
+
+.col-sm-4 ul li a {
+  text-decoration: none;
+}
+
+.col-sm-4 ul li a:hover {
+  color: white;
+}
+
+.hidden {
+  display: none;
+}
+

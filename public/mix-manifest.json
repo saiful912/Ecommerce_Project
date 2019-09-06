@@ -1,0 +1,11 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css",
+    "/css/style.css": "/css/style.css",
+    "/css/user_profile.css": "/css/user_profile.css",
+    "/css/admin_style.css": "/css/admin_style.css",
+    "/css/datatables.min.css": "/css/datatables.min.css",
+    "/js/datatables.min.js": "/js/datatables.min.js",
+    "/js/user_profile.js": "/js/user_profile.js",
+    "/css/material-icons.min.css": "/css/material-icons.min.css"
+}
